@@ -60,4 +60,14 @@ export const characters = [
         book: "Mistborn series",
         powers: ["Allomancy", "Steelpushing", "Ironpulling"],
     },
+    {
+        name: "Venom",
+        book: "Marvel",
+        powers: ["Web-swinging", "Superstrength", "Wallcrawling"],
+    },
+    {
+        name: "Spiderman",
+        book: "Marvel",
+        powers: ["Spidey-sense", "Superstrength", "Agility"],
+    },
 ];
